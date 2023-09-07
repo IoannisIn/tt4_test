@@ -12,7 +12,7 @@
 
 **/
 
-module top(
+module tt_um_top(
 		input wire EN, CLK,
 		output reg [7:0] OUT,
 		output reg [6:0] HEX0, HEX1,
